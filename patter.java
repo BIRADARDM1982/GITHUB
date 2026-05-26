@@ -8,7 +8,7 @@ public class patter{
         int i,j;
         for(i=0;i<=n;i++){
             for(j=0;i<=i;j++){
-                System.out.println(i);
+                System.out.println(j);
             }
 
         }
